@@ -1,0 +1,22 @@
+{
+  "name": "exercises-in-kok",
+  "version": "0.0.1",
+  "description": "Exercies in kick-off-koa",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "koa exercises"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aochuih/exercises-in-kok.git"
+  },
+  "author": "lihuichao <lihuichaoo@gmail.com>",
+  "license": "UNLICENSE",
+  "dependencies": {
+    "koa-router": "^7.0.0",
+    "co-body": "^4.0.0"
+  }
+}
